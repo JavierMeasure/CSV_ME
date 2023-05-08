@@ -1,13 +1,13 @@
 Tipo Transporte,Co2
 blanco,"0"
 Moto,"0,0922"
-Vehículo particular - gasolina,"0,2097"
-Vehículo particular - diesel,"0,2491"
-Vehículo Particular,"0,2097"
-Transporte Particular,"0,2097"
-Bus interurbano (aprox. 45 pers.),"0,0122"
-Bus local (aprox. 25 pers.),"0,0274"
-Metrotren,"0,0537"
+Vehículo particular - gasolina,"0.2097"
+Vehículo particular - diesel,"0.2491"
+Vehículo Particular,"0.2097"
+Transporte Particular,"0.2097"
+Bus interurbano (aprox. 45 pers.),"0.0122"
+Bus local (aprox. 25 pers.),"0.0274"
+Metrotren,"0.0537"
 Bicicleta/A pie,0
 Transporte Activo (Caminata/bicicleta/otro),0
-Transporte Público Uber/Didi/App,"0,2097"
+Transporte Público Uber/Didi/App,"0.2097"
